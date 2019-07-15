@@ -1,7 +1,7 @@
 # Horse_or_Human_Classifier
 
 The following python code will use the OS library to use Operating System libraries, giving us access to the file system,
-and the zipfile library allowing you to unzip the data. 
+and the zipfile library allowing you to unzip the data.
 
 The contents of the .zip are extracted to the base directory /tmp/horse-or-human, which in turn each contain horses and 
 humans subdirectories
