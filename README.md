@@ -1,5 +1,8 @@
 # Horse_or_Human_Classifier
 
+# NOTE :
+         Please note that I have also included the .py file for the same notebook in case the notebook doesn't open in github.
+
 The following python code will use the OS library to use Operating System libraries, giving us access to the file system,
 and the zipfile library allowing you to unzip the data.
 
@@ -12,7 +15,7 @@ Here, instead of explicitly labelling the images, we have used something called 
  label them from the name of that subdirectory.
  
  
- Here, we have added convolutional layers, and flatten the final result to feed into the densely connected layers.
+Also, we have added convolutional layers, and flatten the final result to feed into the densely connected layers.
 
 Finally we add the densely connected layers.
 
