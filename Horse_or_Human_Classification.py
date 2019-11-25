@@ -143,7 +143,7 @@ for fn in uploaded.keys():
  
 
 
-import numpy as np
+#import numpy as np
 import random
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 
@@ -200,7 +200,7 @@ for layer_name, feature_map in zip(layer_names, successive_feature_maps):
 
     
     
-import os, signal
+#import os, signal
 os.kill(os.getpid(), signal.SIGKILL)    
     
     
